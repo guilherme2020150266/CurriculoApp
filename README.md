@@ -1,2 +1,1 @@
-# CurriculoApp
-App utilizando Expo
+app de curriculo
