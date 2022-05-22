@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "CurriculoApp",
+    "slug": "CurriculoApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#00FFFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#00FFFF"
+      },
+      "package": "com.curriculo.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "App de Currículo",
+    "githubUrl": "https://github.com/guilherme2020150266/CurriculoApp.git"
+  }
+}
