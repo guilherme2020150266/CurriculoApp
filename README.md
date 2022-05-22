@@ -1,2 +1,0 @@
-# CurriculoApp
-App utilizando Expo
